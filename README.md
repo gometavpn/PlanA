@@ -1,7 +1,7 @@
 # MetaVPN Airport Here
 
 ## 简介
-MetaVPN是依托 [rapidapi.com](https://rapidapi.com)（以下简称RapidAPI）建立的机场，提供一些API接口实现了机场的基本功能，所以有一下优缺点：
+[MetaVPN](https://rapidapi.com/zh/metavpn/api/meta-v1)是依托 [rapidapi.com](https://rapidapi.com)（以下简称RapidAPI）建立的机场，提供一些API接口实现了机场的基本功能，所以有一下优缺点：
 
 ### 优点
 * 由于不提供WEB界面访问，所以用户（包括邪恶用户）无法知道MetaVPN的网站及后台，避免了很多的问题，包括和谐等等一系列的麻烦。
