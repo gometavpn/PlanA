@@ -11,3 +11,7 @@
 ## 套餐简介
 
 [https://github.com/gometavpn/PlanA/wiki/MetaVPN-Subscription](https://github.com/gometavpn/PlanA/wiki/MetaVPN-Subscription)
+
+## 开源客户端
+
+[https://github.com/gometavpn/PlanA/wiki](https://github.com/gometavpn/PlanA/wiki)
